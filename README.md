@@ -1,1 +1,1 @@
-# CodSoft-Projects
+# CodSoft Projects
